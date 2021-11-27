@@ -1062,6 +1062,7 @@ span {
   }
   .footer_links_sub a {
     margin: 0 15px;
+    padding: 3px 0;
   }
   .footer_links_lang {
     margin-top: 10px;
